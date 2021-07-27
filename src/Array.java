@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-public class Array
+public class Array123
 {
     public static void main (String[] args )
     {
